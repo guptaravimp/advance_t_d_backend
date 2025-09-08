@@ -2,6 +2,34 @@
 - **Production URL**: `https://advance-t-d-backend.vercel.app/`
 - **API Base URL**: `https://advance-t-d-backend.vercel.app/api/v1`
 
+# Todo App Backend
+
+A Node.js backend API for a Todo application built with Express.js and MongoDB.
+
+## 📖 Project Overview
+
+This backend serves as the API layer for a full-stack Todo application. It provides RESTful endpoints for managing todos and categories, with MongoDB as the persistent storage layer. The application follows MVC architecture with clear separation of concerns:
+
+- **Models**: Mongoose schemas for Todo and Category entities
+- **Controllers**: Business logic for handling API requests
+- **Routes**: API endpoint definitions and middleware
+- **Database**: MongoDB with Mongoose ODM for data persistence
+
+### Key Features:
+- RESTful API design with proper HTTP methods
+- Data validation using Mongoose schemas
+- CORS configuration for frontend integration
+- Environment-based configuration management
+- Error handling and response standardization
+
+## 🚀 Features
+
+- **Todo Management**: Create, read, update, and delete todos
+- **Category Management**: Organize todos with custom categories
+- **RESTful API**: Clean and well-structured API endpoints
+- **MongoDB Integration**: Persistent data storage with Mongoose ODM
+- **CORS Support**: Configured for frontend integration
+- **Environment Configuration**: Secure configuration management
   
 ## 🚀 Getting Started
 
