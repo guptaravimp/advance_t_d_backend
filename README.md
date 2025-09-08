@@ -1,3 +1,8 @@
+### Deployment URL
+- **Production URL**: `https://advance-t-d-backend.vercel.app/`
+- **API Base URL**: `https://advance-t-d-backend.vercel.app/api/v1`
+
+  
 ## 🚀 Getting Started
 
 ### Prerequisites
